@@ -1,0 +1,111 @@
+[ {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "5.6",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "6.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "6.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "6.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "6.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "6.5",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "7.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "7.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "7.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8HKucKXsEeSn2qcijzCeYQ",
+    "version" : "7.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]
